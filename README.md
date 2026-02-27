@@ -1,54 +1,53 @@
-<h1 align="center">Hello! I'm Shravani Patil ☁️</h1>
-<h3 align="center">Aspiring Cloud Engineer | AWS | Devops | Building Projects 🚀</h3>
+<h1 align="center">Hi 👋, I'm Shravani Patil</h1>
+<h3 align="center">☁️ Aspiring Cloud Engineer | AWS | DevOps Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Cloud+Engineer+in+Progress;AWS;DevOps+Enthusiast;Building+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&center=true&vCenter=true&lines=Cloud+Engineer+in+Progress;AWS+Learner;DevOps+Enthusiast;Building+Projects+Consistently" />
 </p>
 
 ---
 
 ## 💫 About Me
-💻 Currently learning **Cloud & DevOps** with hands-on projects  
-☁️ Working with **AWS services** and real architectures  
-📚 Focused on becoming **Successful Cloud Engineer**  
-🚀 Love building and understanding how systems work behind the scenes  
+✨ Passionate about **Cloud & DevOps** and building real-world systems  
+☁️ Hands-on with **AWS services & architecture concepts**  
+📚 Continuously learning and improving every day  
+🚀 I enjoy understanding how things work behind the scenes  
 
 ---
 
 ## 🧠 Currently Learning
-- AWS Architecture & Networking  
-- CI/CD & DevOps fundamentals  
-- System design basics  
+🔹 AWS Architecture & Networking  
+🔹 CI/CD & DevOps workflows  
+🔹 System Design fundamentals  
 
 ---
 
-## ⚙️ Tech & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=aws,github,githubactions,linux,html,css,figma,postgres,mysql" />
+## 🛠️ Tech & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,github,githubactions,linux,html,css,figma,postgres,mysql&perline=9" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanipatil35&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanipatil35&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Projects Focus
-- Cloud architecture projects  
-- Serverless applications  
-- DevOps practice labs  
+## 🚀 Project Focus
+✔️ Cloud architecture implementations  
+✔️ Serverless & automation projects  
+✔️ DevOps practice labs  
 
 ---
 
-## 🎯 Goal
-Become a **Cloud Engineer / DevOps Engineer** and build scalable systems ☁️  
+## 🎯 Career Goal
+Build scalable, reliable systems and grow into a **Cloud / DevOps Engineer** ☁️  
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+  ⭐ If you like my work, feel free to explore my repositories!
 </p>
