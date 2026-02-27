@@ -1,15 +1,15 @@
 <h1 align="center">Hello! I'm Shravani Patil ☁️</h1>
-<h3 align="center">Aspiring Cloud Engineer | AWS | Building Projects 🚀</h3>
+<h3 align="center">Aspiring Cloud Engineer | AWS | Devops | Building Projects 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Cloud+Engineer+in+Progress;AWS+Learner;DevOps+Enthusiast;Building+Projects+Every+Week" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Cloud+Engineer+in+Progress;AWS;DevOps+Enthusiast;Building+Projects" />
 </p>
 
 ---
 
 ## 💫 About Me
 💻 Currently learning **Cloud & DevOps** with hands-on projects  
-☁️ Working with core **AWS services** and real architectures  
+☁️ Working with **AWS services** and real architectures  
 📚 Focused on becoming **Successful Cloud Engineer**  
 🚀 Love building and understanding how systems work behind the scenes  
 
@@ -31,8 +31,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shravanipatil35&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanipatil35&layout=compact&theme=tokyonight" />
 </p>
 
 ---
