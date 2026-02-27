@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Shravani Patil ☁️</h1>
-<h3 align="center">Aspiring Cloud Engineer | AWS | Building Real Projects 🚀</h3>
+<h3 align="center">Aspiring Cloud Engineer | AWS | Building Projects 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Cloud+Engineer+in+Progress;AWS+Learner;DevOps+Enthusiast;Building+Projects+Every+Week" />
@@ -10,7 +10,7 @@
 ## 💫 About Me
 💻 Currently learning **Cloud & DevOps** with hands-on projects  
 ☁️ Working with core **AWS services** and real architectures  
-📚 Focused on becoming **job-ready Cloud Engineer**  
+📚 Focused on becoming **Successful Cloud Engineer**  
 🚀 Love building and understanding how systems work behind the scenes  
 
 ---
@@ -24,7 +24,7 @@
 
 ## ⚙️ Tech & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker,nodejs,js,mysql" />
+<img src="https://skillicons.dev/icons?i=aws,github,githubactions,linux,html,css,figma,postgres,mysql" />
 </p>
 
 ---
