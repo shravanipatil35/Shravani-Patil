@@ -35,9 +35,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanipatil35&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanipatil35&theme=tokyo-night" />
-</p>
 ---
 
 ## 🚀 Projects Focus
