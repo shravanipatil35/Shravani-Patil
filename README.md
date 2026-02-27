@@ -1,1 +1,54 @@
-# Shravani-Patil
+<h1 align="center">Hello! I'm Shravani Patil ☁️</h1>
+<h3 align="center">Aspiring Cloud Engineer | AWS | Building Real Projects 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Cloud+Engineer+in+Progress;AWS+Learner;DevOps+Enthusiast;Building+Projects+Every+Week" />
+</p>
+
+---
+
+## 💫 About Me
+💻 Currently learning **Cloud & DevOps** with hands-on projects  
+☁️ Working with core **AWS services** and real architectures  
+📚 Focused on becoming **job-ready Cloud Engineer**  
+🚀 Love building and understanding how systems work behind the scenes  
+
+---
+
+## 🧠 Currently Learning
+- AWS Architecture & Networking  
+- CI/CD & DevOps fundamentals  
+- System design basics  
+
+---
+
+## ⚙️ Tech & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker,nodejs,js,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Projects Focus
+- Cloud architecture projects  
+- Serverless applications  
+- DevOps practice labs  
+
+---
+
+## 🎯 Goal
+Become a **Cloud Engineer / DevOps Engineer** and build scalable systems ☁️  
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
