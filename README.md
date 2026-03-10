@@ -39,12 +39,7 @@
 ## 🚀 Project Focus
 ✔️ Cloud architecture implementations  
 ✔️ Serverless & automation projects  
-✔️ DevOps practice labs  
-
----
-
-## 🎯 Career Goal
-Build scalable, reliable systems and grow into a **Cloud / DevOps Engineer** ☁️  
+✔️ DevOps practice labs   
 
 ---
 
