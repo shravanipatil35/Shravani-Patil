@@ -40,21 +40,15 @@ Experience includes deploying **3-tier applications and Node.js services on AWS 
 
 ---
 
-### GitHub Project Stack
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/shravanipatil35">
-    <img src="https://github-readme-stats.vercel.app/api?username=shravanipatil35&show_icons=true&hide_border=true&theme=github_dark" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shravanipatil35&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanipatil35&theme=tokyonight&hide_border=true&background=0D1117" height="180em"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/shravanipatil35/3-Tier-Architecture-Deploy-with-AWS-and-Devops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanipatil35&repo=3-Tier-Architecture-Deploy-with-AWS-and-Devops&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/shravanipatil35/Devops-Node-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanipatil35&repo=Devops-Node-App&theme=github_dark&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanipatil35&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150em"/>
 </p>
 
 ---
