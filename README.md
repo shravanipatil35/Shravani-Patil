@@ -1,53 +1,53 @@
-<h2 align="center">AWS Cloud & DevOps Engineer</h2>
+<h1 align="center">AWS Cloud & DevOps Engineer</h1>
 
 <p align="center">
-Building scalable cloud systems • Automating deployments • Shipping reliable applications
+  Designing scalable cloud systems • Automating infrastructure • Deploying reliable applications
+</p>
+
+<p align="center">
+  <a href="https://github.com/shravanipatil35">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
 ### About
 
-Cloud & DevOps Engineer focused on designing and deploying scalable applications on AWS.
-
-Working with containerized environments using Docker and Kubernetes, automating infrastructure with Terraform, and building CI/CD pipelines using GitHub Actions.
+Cloud & DevOps Engineer working with AWS to build scalable, production-ready systems.  
+Focused on containerized deployments, infrastructure automation, and efficient CI/CD workflows.
 
 ---
 
 ### Tech Stack
 
-**Cloud**  
-AWS (IAM, EC2, VPC, S3, Lambda, EKS, RDS, ALB, Auto Scaling, CloudWatch, SNS)
-
-**DevOps**  
-Docker • Kubernetes • Terraform • Jenkins • GitHub Actions • Git • AWS ECR  
-
-**Languages**  
-Python • Java • Bash  
-
-**Database & OS**  
-MySQL • Linux  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,github,linux,python,java,mysql,bash" />
+</p>
 
 ---
 
-### What I Work On
+### What I Do
 
-- Deploying applications on AWS EKS  
-- Building CI/CD pipelines  
-- Writing Infrastructure as Code (Terraform)  
-- Managing Kubernetes workloads  
-- Cloud architecture & automation  
+- Deploy applications on AWS EKS using Kubernetes  
+- Automate infrastructure using Terraform (IaC)  
+- Build CI/CD pipelines with GitHub Actions  
+- Containerize applications with Docker  
+- Manage cloud networking and scalable architectures  
 
 ---
 
 ### Projects
 
 **3-Tier Architecture Deployment**  
-Flask application deployed on AWS EKS using Docker and Kubernetes with Terraform-based infrastructure and CI/CD via GitHub Actions  
+Flask app deployed on AWS EKS with Docker, Kubernetes, Terraform, and CI/CD automation  
 🔗 https://github.com/shravanipatil35/3-Tier-Architecture-Deploy-with-AWS-and-Devops  
 
 **Node.js DevOps Deployment**  
-Containerized Node.js app deployed on Kubernetes (AWS EKS) with CI/CD pipeline and ECR integration  
+Containerized Node.js app deployed on Kubernetes (AWS EKS) with CI/CD and ECR integration  
 🔗 https://github.com/shravanipatil35/Devops-Node-App  
 
 ---
@@ -58,6 +58,15 @@ AWS Console • Linux CLI • GitHub • Terraform CLI • Kubectl • Docker Hu
 
 ---
 
+### GitHub Activity
+
 <p align="center">
-Focused on building real-world cloud systems with scalability and automation
+  <img src="https://github-readme-stats.vercel.app/api?username=shravanipatil35&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanipatil35&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  Building cloud systems with scalability, automation, and reliability in mind
 </p>
