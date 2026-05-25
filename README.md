@@ -13,12 +13,22 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws">
+  <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker">
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes">
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=flat-square&logo=terraform">
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-black?style=flat-square&logo=githubactions">
+</p>
+
 ---
 
 ### About
 
 Cloud & DevOps Engineer working with AWS to build scalable, production-ready systems.  
 Focused on containerized deployments, infrastructure automation, and efficient CI/CD workflows.
+
+Experience includes deploying **3-tier applications and Node.js services on AWS EKS**, using Docker and Kubernetes, with infrastructure provisioned through Terraform and automated pipelines via GitHub Actions.
 
 ---
 
@@ -36,19 +46,20 @@ Focused on containerized deployments, infrastructure automation, and efficient C
 - Automate infrastructure using Terraform (IaC)  
 - Build CI/CD pipelines with GitHub Actions  
 - Containerize applications with Docker  
-- Manage cloud networking and scalable architectures  
+- Design scalable cloud architectures and networking  
 
 ---
 
-### Projects
+### Work & Repositories
 
-**3-Tier Architecture Deployment**  
-Flask app deployed on AWS EKS with Docker, Kubernetes, Terraform, and CI/CD automation  
-🔗 https://github.com/shravanipatil35/3-Tier-Architecture-Deploy-with-AWS-and-Devops  
-
-**Node.js DevOps Deployment**  
-Containerized Node.js app deployed on Kubernetes (AWS EKS) with CI/CD and ECR integration  
-🔗 https://github.com/shravanipatil35/Devops-Node-App  
+<p align="center">
+  <a href="https://github.com/shravanipatil35/3-Tier-Architecture-Deploy-with-AWS-and-Devops">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanipatil35&repo=3-Tier-Architecture-Deploy-with-AWS-and-Devops&hide_border=true">
+  </a>
+  <a href="https://github.com/shravanipatil35/Devops-Node-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanipatil35&repo=Devops-Node-App&hide_border=true">
+  </a>
+</p>
 
 ---
 
@@ -68,5 +79,5 @@ AWS Console • Linux CLI • GitHub • Terraform CLI • Kubectl • Docker Hu
 ---
 
 <p align="center">
-  Building cloud systems with scalability, automation, and reliability in mind
+  Building cloud systems with scalability, automation, and reliability
 </p>
