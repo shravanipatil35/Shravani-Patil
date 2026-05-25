@@ -1,87 +1,94 @@
-<h1 align="center">Shravani Patil</h1>
-<p align="center"><strong>AWS Cloud & DevOps Engineer</strong></p>
+<h1 align="center">🚀 AWS Cloud & DevOps Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&width=750&lines=AWS+%7C+Kubernetes+%7C+Terraform+%7C+Docker;CI%2FCD+Automation+%7C+Cloud+Infrastructure;Building+Scalable+Cloud-Native+Systems" />
+  <b>Building Scalable Cloud Infrastructure | Automating Deployments | Containerized Applications</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=flat&logo=terraform" />
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Automation-blue?style=flat&logo=githubactions" />
+  📍 Pune, India • 📧 shravanipatil4444@gmail.com <br>
+  🔗 <a href="https://linkedin.com">LinkedIn</a> • 
+  🔗 <a href="https://github.com/shravanipatil35">GitHub</a>
 </p>
 
 ---
 
-## Professional Summary
-Cloud & DevOps Engineer with hands-on experience in AWS, Docker, Kubernetes, Terraform, GitHub Actions, and Linux administration.  
-Skilled in deploying containerized applications on AWS EKS using Infrastructure as Code (IaC) and CI/CD automation.  
-Strong focus on cloud infrastructure design, Kubernetes orchestration, application deployment, and system reliability.
+## ⚡ About Me
+
+Cloud & DevOps Engineer with hands-on experience in **AWS, Kubernetes, Docker, and Terraform**.  
+Focused on building **scalable, automated, and production-ready cloud systems**.
+
+- 🚀 Deploying applications on AWS EKS using Kubernetes  
+- ⚙️ Automating infrastructure with Terraform (IaC)  
+- 🔄 Building CI/CD pipelines using GitHub Actions  
+- 📦 Containerizing applications using Docker  
+- 📊 Monitoring & optimizing cloud performance  
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-**Cloud Platforms**  
-AWS (IAM, EC2, VPC, S3, Lambda, EKS, RDS, ALB, Auto Scaling, CloudWatch, SNS)
+### ☁️ Cloud & Infrastructure
+`AWS` • IAM • EC2 • VPC • S3 • Lambda • EKS • RDS • ALB • Auto Scaling • CloudWatch • SNS  
 
-**DevOps & Tools**  
-Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Git, AWS ECR
+### ⚙️ DevOps & Tools
+`Docker` • `Kubernetes` • `Terraform` • `Jenkins` • `GitHub Actions` • `Git` • `ECR`  
 
-**Programming & Scripting**  
-Python, Java, Bash
+### 💻 Programming
+`Python` • `Java` • `Bash`  
 
-**Databases**  
-MySQL
+### 🗄️ Database
+`MySQL`  
 
-**Operating Systems**  
-Linux
-
-**Core Concepts**  
-CI/CD Pipelines • Infrastructure as Code (IaC) • Containerization • Automation  
-Kubernetes Orchestration • Cloud Networking • System Design
+### 🖥️ Systems
+`Linux`  
 
 ---
 
-## Key Projects
+## 🔥 What I Build
 
-### 3-Tier Architecture Deployment (AWS + DevOps)
-- Designed and deployed a **3-tier Flask application** on AWS EKS using Docker & Kubernetes  
-- Provisioned infrastructure (VPC, EKS, EC2, RDS) using **Terraform IaC**  
-- Integrated MySQL with persistent storage for reliable data handling  
-- Implemented **CI/CD pipeline using GitHub Actions**, reducing manual deployment effort  
-
-🔗 https://github.com/shravanipatil35/3-Tier-Architecture-Deploy-with-AWS-and-Devops
+- Scalable **3-tier architectures on AWS**
+- Fully automated **CI/CD pipelines**
+- Containerized applications with **Docker + Kubernetes**
+- Infrastructure provisioning using **Terraform**
+- Cloud-native deployments on **AWS EKS**
 
 ---
 
-### DevOps Deployment of Node.js Application
-- Containerized Node.js application using Docker and deployed on AWS EKS  
-- Built CI/CD pipelines with GitHub Actions integrated with AWS ECR  
-- Exposed application using Kubernetes LoadBalancer for external access  
-- Managed Kubernetes deployments, services, and orchestration end-to-end  
+## 🚀 Featured Work
 
-🔗 https://github.com/shravanipatil35/Devops-Node-App
+### 🔹 3-Tier Architecture Deployment (AWS + DevOps)
+- Flask-based application deployed on AWS EKS  
+- Infrastructure provisioned using Terraform  
+- CI/CD automated with GitHub Actions  
+- Integrated MySQL with persistent storage  
+
+🔗 https://github.com/shravanipatil35/3-Tier-Architecture-Deploy-with-AWS-and-Devops  
 
 ---
 
-## Tools & Platforms
+### 🔹 Node.js DevOps Deployment
+- Dockerized Node.js application  
+- Deployed on Kubernetes (AWS EKS)  
+- CI/CD pipeline with GitHub Actions + ECR  
+- Exposed via LoadBalancer for external access  
+
+🔗 https://github.com/shravanipatil35/Devops-Node-App  
+
+---
+
+## ⚡ Tools & Platforms
+
+`AWS Console` • `Linux CLI` • `Kubectl` • `Docker Hub` • `GitHub` • `Terraform CLI` • `Jenkins`
+
+---
+
+## 🤝 Soft Skills
+
+Problem Solving • Troubleshooting • Analytical Thinking  
+Communication • Team Collaboration  
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,mysql&perline=8" />
-</p>
-
----
-
-## Approach
-- Build → Automate → Scale  
-- Focus on production-ready implementations  
-- Design for reliability, performance, and scalability  
-
----
-
-<p align="center">
-  <i>Focused on building scalable, automated, and cloud-native systems</i>
+  💡 <i>Focused on building real-world cloud systems with automation and scalability</i>
 </p>
