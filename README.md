@@ -1,48 +1,39 @@
-<h1 align="center">Hello! I'm Shravani Patil</h1>
-<h3 align="center">☁️ Aspiring Cloud Engineer | AWS | DevOps Enthusiast 🚀</h3>
+<h1 align="center">Shravani Patil</h1>
+<h3 align="center">☁️ Cloud & DevOps Engineer | AWS | Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&center=true&vCenter=true&lines=Cloud+Engineer+in+Progress;AWS+Learner;DevOps+Enthusiast;Building+Projects+Consistently" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&center=true&vCenter=true&lines=AWS+Cloud+Engineer;DevOps+Practitioner;CI/CD+%7C+Docker+%7C+Automation;Building+Scalable+Systems" />
 </p>
 
 ---
 
-## 💫 About Me
-✨ Passionate about **Cloud & DevOps** and building real-world systems  
-☁️ Hands-on with **AWS services & architecture concepts**  
-📚 Continuously learning and improving every day  
-🚀 I enjoy understanding how things work behind the scenes  
+## 💼 Profile
+Cloud & DevOps-focused engineer with hands-on experience in building and deploying scalable applications on AWS. Skilled in automation, CI/CD pipelines, and containerization, with a strong focus on real-world implementations.
 
 ---
 
-## 🧠 Currently Learning
-🔹 AWS Architecture & Networking  
-🔹 CI/CD & DevOps workflows  
-🔹 System Design fundamentals  
-
----
-
-## 🛠️ Tech & Tools
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,github,githubactions,linux,html,css,figma,postgres,mysql&perline=9" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,jenkins,github,githubactions,postgres,mysql&perline=8" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Projects
+- **AWS Infrastructure Setup** – Designed and deployed scalable cloud architecture using EC2, S3, and IAM  
+- **CI/CD Pipeline** – Automated build and deployment using GitHub Actions / Jenkins  
+- **Dockerized Applications** – Containerized applications for consistent deployment  
+- **Monitoring & Logging Setup** – Implemented basic monitoring for system reliability  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanipatil35&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Project Focus
-✔️ Cloud architecture implementations  
-✔️ Serverless & automation projects  
-✔️ DevOps practice labs   
-
----
-
 <p align="center">
-  ⭐ If you like my work, feel free to explore my repositories!
+  ⭐ Explore my repositories to see real implementations of Cloud & DevOps practices
 </p>
