@@ -1,73 +1,87 @@
 <h1 align="center">Shravani Patil</h1>
-<p align="center"><strong>Cloud & DevOps Engineer</strong></p>
+<p align="center"><strong>AWS Cloud & DevOps Engineer</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&width=650&lines=AWS+%7C+CI%2FCD+%7C+Docker;Designing+Scalable+Cloud+Systems;Automation+%7C+Reliability+%7C+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&width=750&lines=AWS+%7C+Kubernetes+%7C+Terraform+%7C+Docker;CI%2FCD+Automation+%7C+Cloud+Infrastructure;Building+Scalable+Cloud-Native+Systems" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Automation-blue?style=flat&logo=githubactions" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=flat&logo=terraform" />
   <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/Linux-Systems-grey?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-blue?style=flat&logo=githubactions" />
 </p>
 
 ---
 
-## Engineering Profile
-Cloud & DevOps engineer focused on building scalable infrastructure, automating deployments, and improving system reliability.  
-Hands-on experience with AWS, CI/CD pipelines, and containerized environments with a production-oriented approach.
+## Professional Summary
+Cloud & DevOps Engineer with hands-on experience in AWS, Docker, Kubernetes, Terraform, GitHub Actions, and Linux administration.  
+Skilled in deploying containerized applications on AWS EKS using Infrastructure as Code (IaC) and CI/CD automation.  
+Strong focus on cloud infrastructure design, Kubernetes orchestration, application deployment, and system reliability.
 
 ---
 
-## Core Expertise
+## Technical Skills
 
-```diff
-+ AWS Cloud (EC2, S3, IAM)
-+ CI/CD Pipelines (GitHub Actions, Jenkins)
-+ Docker & Containerization
-+ Linux & Networking Fundamentals
-+ Monitoring & Logging
-```
+**Cloud Platforms**  
+AWS (IAM, EC2, VPC, S3, Lambda, EKS, RDS, ALB, Auto Scaling, CloudWatch, SNS)
+
+**DevOps & Tools**  
+Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Git, AWS ECR
+
+**Programming & Scripting**  
+Python, Java, Bash
+
+**Databases**  
+MySQL
+
+**Operating Systems**  
+Linux
+
+**Core Concepts**  
+CI/CD Pipelines • Infrastructure as Code (IaC) • Containerization • Automation  
+Kubernetes Orchestration • Cloud Networking • System Design
 
 ---
 
 ## Key Projects
 
-### Cloud Infrastructure Deployment
-→ Designed AWS architecture using EC2, S3, IAM  
-→ Implemented secure access and structured resource management  
+### 3-Tier Architecture Deployment (AWS + DevOps)
+- Designed and deployed a **3-tier Flask application** on AWS EKS using Docker & Kubernetes  
+- Provisioned infrastructure (VPC, EKS, EC2, RDS) using **Terraform IaC**  
+- Integrated MySQL with persistent storage for reliable data handling  
+- Implemented **CI/CD pipeline using GitHub Actions**, reducing manual deployment effort  
 
-### CI/CD Pipeline Automation
-→ Built pipelines using GitHub Actions & Jenkins  
-→ Automated build and deployment workflow  
-
-### Dockerized Application
-→ Containerized application for consistent environments  
-→ Simplified deployment and scaling  
-
-### Monitoring & Logging
-→ Implemented logging strategy for system visibility  
-→ Improved debugging and reliability  
+🔗 https://github.com/shravanipatil35/3-Tier-Architecture-Deploy-with-AWS-and-Devops
 
 ---
 
-## GitHub Stats
+### DevOps Deployment of Node.js Application
+- Containerized Node.js application using Docker and deployed on AWS EKS  
+- Built CI/CD pipelines with GitHub Actions integrated with AWS ECR  
+- Exposed application using Kubernetes LoadBalancer for external access  
+- Managed Kubernetes deployments, services, and orchestration end-to-end  
+
+🔗 https://github.com/shravanipatil35/Devops-Node-App
+
+---
+
+## Tools & Platforms
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravanipatil35&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanipatil35&hide_border=true" height="150"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,mysql&perline=8" />
 </p>
 
 ---
 
 ## Approach
-- Build → Automate → Optimize  
-- Focus on real-world implementations  
-- Design for scalability and reliability  
+- Build → Automate → Scale  
+- Focus on production-ready implementations  
+- Design for reliability, performance, and scalability  
 
 ---
 
 <p align="center">
-  <i>Focused on building clean, scalable, and production-ready systems</i>
+  <i>Focused on building scalable, automated, and cloud-native systems</i>
 </p>
