@@ -40,6 +40,19 @@ Experience includes deploying **3-tier applications and Node.js services on AWS 
 
 ---
 
+### GitHub Project Stack
+
+<p align="center">
+  <a href="https://github.com/shravanipatil35/3-Tier-Architecture-Deploy-with-AWS-and-Devops">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanipatil35&repo=3-Tier-Architecture-Deploy-with-AWS-and-Devops&hide_border=true" />
+  </a>
+  <a href="https://github.com/shravanipatil35/Devops-Node-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanipatil35&repo=Devops-Node-App&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ### What I Do
 
 - Deploy applications on AWS EKS using Kubernetes  
