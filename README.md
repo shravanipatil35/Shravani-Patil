@@ -6,19 +6,19 @@
 
 <p align="center">
   <a href="https://github.com/shravanipatil35">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=for-the-badge&logo=github">
   </a>
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws">
-  <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker">
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonaws">
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker">
   <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes">
   <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=flat-square&logo=terraform">
-  <img src="https://img.shields.io/badge/CI%2FCD-Automation-black?style=flat-square&logo=githubactions">
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-0d1117?style=flat-square&logo=githubactions">
 </p>
 
 ---
@@ -43,11 +43,17 @@ Experience includes deploying **3-tier applications and Node.js services on AWS 
 ### GitHub Project Stack
 
 <p align="center">
+  <a href="https://github.com/shravanipatil35">
+    <img src="https://github-readme-stats.vercel.app/api?username=shravanipatil35&show_icons=true&hide_border=true&theme=github_dark" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/shravanipatil35/3-Tier-Architecture-Deploy-with-AWS-and-Devops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanipatil35&repo=3-Tier-Architecture-Deploy-with-AWS-and-Devops&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanipatil35&repo=3-Tier-Architecture-Deploy-with-AWS-and-Devops&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/shravanipatil35/Devops-Node-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanipatil35&repo=Devops-Node-App&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanipatil35&repo=Devops-Node-App&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
