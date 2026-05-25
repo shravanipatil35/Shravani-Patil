@@ -1,7 +1,7 @@
 <h1 align="center">AWS Cloud & DevOps Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Designing+Scalable+Cloud+Systems;Automating+Infrastructure+with+Terraform;Deploying+Applications+on+AWS+EKS;Building+CI%2FCD+Pipelines" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Designing+scalable+cloud+systems;Automating+infrastructure;Deploying+reliable+applications" />
 </p>
 
 <p align="center">
@@ -11,10 +11,6 @@
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shravanipatil35&style=flat-square&color=blue" />
 </p>
 
 <p align="center">
@@ -57,19 +53,6 @@ Experience includes deploying **3-tier applications and Node.js services on AWS 
 ### Tools
 
 AWS Console • Linux CLI • GitHub • Terraform CLI • Kubectl • Docker Hub • Jenkins  
-
----
-
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanipatil35&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravanipatil35&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanipatil35&hide_border=true" />
-</p>
 
 ---
 
